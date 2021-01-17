@@ -1,2 +1,0 @@
-Inserisce metodi isActive, getErros, setErrors. debounceTime = 20 di default.
-Viene eseguito il loop di lettura solo se l'ingresso ha valore != dalla lettura precedente.
